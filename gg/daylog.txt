@@ -9,3 +9,6 @@ Day 2: applied to many jobs done 2 dsa problem and react video 18 React.js
 Day 3 : completed a   React.js course with bonus session. + 2 dsa questions.
 
 Day 4 : done nothing much revision from kunal kushawha
+
+
+Day 5 : done 2 coding question one on leetcode and  second on gfg and given one test exam of byteShift innovation
