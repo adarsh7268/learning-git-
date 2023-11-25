@@ -21,3 +21,5 @@ day 7 : 2 question on gfg and leetcode.
 
 day 8 : 2 questions on gfg and leetcode.
 day 9 :done 2 questions on gfg and leetcode.
+
+day 10 done 2 questions on gfg and leetcode.
