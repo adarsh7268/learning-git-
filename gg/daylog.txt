@@ -42,3 +42,5 @@ day 18 status done 2 quuestions
 
 day 19 2 question done on gfg and leetcode.
 
+day 20 status done 2 questions on gfg and leetcode
+
