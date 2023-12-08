@@ -51,3 +51,5 @@ day 21 done 2 questions on gfg and leetcode.
 
 DAY 22 DONE 2 QUESTION ON GFG AND LEETCODE.
 
+DAY 23 DONE 2 QUESTIONS ON GFG AND LEETCODE
+
