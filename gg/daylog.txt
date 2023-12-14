@@ -65,3 +65,6 @@ day 26 done 2 questions on gfg and revised javascript
 day 27 done 2 coding questions and also given a 3 round of humming birds web solution company.
 day 28 done 2 coding question on gfg and leetcode.
 
+
+day 29 done 2 questions and started revison of the concepts 
+
