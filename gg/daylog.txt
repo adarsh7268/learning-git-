@@ -68,3 +68,6 @@ day 28 done 2 coding question on gfg and leetcode.
 
 day 29 done 2 questions and started revison of the concepts 
 
+
+day 30 done 2 questions on gfg and leetcode and Revising striver Dsa Algorithms
+
