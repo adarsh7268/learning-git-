@@ -82,3 +82,5 @@ day 33 done 2 question on gfg and leetcode .
 
 DAY 35 DONE 2 QUESTIONS ON GFG AND LEETCODE.
 
+day 36 done 2 questions on GFG and leetcode.
+
