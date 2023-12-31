@@ -99,6 +99,7 @@ day 42 done 2 question on gfg and leetcode.
 day 43 done 2 questions on gfg and leetcode.
 
 day 44 done 2 questions on gfg and leetcode 
+ day 45 done 2 questions on gfg and leetcode.
 
 
 
