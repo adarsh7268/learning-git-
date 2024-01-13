@@ -119,3 +119,5 @@ day 55 done 2 questions on gfg and leetcode.
 day 56 done 2 questions on gfg and leetcode.
 day 57 done 2 questions on gfg anD leetcode.
 
+day 58 done 2 question on gfg and leetcode.
+
