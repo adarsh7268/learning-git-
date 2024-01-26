@@ -134,3 +134,4 @@ day 68 done 2 questiond on gfg and leetcode.s
 
 day 69 done 2 question on gfg and leetcode.
 day  70n done 2 questions on  gfg and leetcode 
+day 71 done 2 questions on gfg and leetcode.
