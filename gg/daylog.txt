@@ -153,3 +153,4 @@ day 79 done 2 questioms on gfg and leetcode.
 day 80 done 2 questions on gfg and leetcode.
 
 day 81 done 2 question on gfg and leetcode.
+day 82 done 2 question on gfg and leetcode.
