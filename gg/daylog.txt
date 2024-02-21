@@ -176,3 +176,4 @@ day 94 done 2 questions on gfg and leetcode.
 day 95 done 2 questions on gfg and leetcode.
 day 96 done 2 questions on gfg and leetcode.
 dau 97 done 2 questions on gfg and leetcode.
+day 98 done 2 questions on gfg and leetcode.
