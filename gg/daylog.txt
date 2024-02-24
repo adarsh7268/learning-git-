@@ -179,3 +179,4 @@ dau 97 done 2 questions on gfg and leetcode.
 day 98 done 2 questions on gfg and leetcode.
 day 99 done 2 questions on gfg and leetcode.
 DAY 100 DONE 2 QUESTIOns on gfg and leetcode.
+DAY 101 DONE 2 QUESTIONS ON GFG AND LEETCODE.
