@@ -182,3 +182,4 @@ DAY 100 DONE 2 QUESTIOns on gfg and leetcode.
 DAY 101 DONE 2 QUESTIONS ON GFG AND LEETCODE.
 dau 102 done 2 questions on gfg and leetcode.
 day 103 done 2 questions on gfg and leetcode.
+day 104 done 2 quetions on gfg and leetcode.
