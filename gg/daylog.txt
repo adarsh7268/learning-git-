@@ -199,3 +199,4 @@ day 117 done 2 questions on gfg and leetcode.
 day 118 done 2 questions on gfg and leetcode.
 day 119 done 2 questions on gfg and leetcode.
 day 120 done 2 questions on gfg and leetcode.
+day 121 done 2 questions on gfg and leetcode.
