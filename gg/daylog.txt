@@ -203,3 +203,4 @@ day 121 done 2 questions on gfg and leetcode.
 day 122 done 2 question on gfg and leetcode.
 day 123 done 2 question on gfg and leetcode.
 day 124 done 2 questions on gfg and leetcode.
+day 125 done 2 questions on gfg and leetcode.
