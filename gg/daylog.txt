@@ -220,3 +220,4 @@ day 138 done 2 question onn gfg and leetcode.
 day 139 done 2 question on gfg and leetcode.
 day 140 done 2 questions on gfg and leetcode.
 day 141 done 2 questions on gfg and leetcode.
+day 142 done 2 questions on gfg and leetcode.
