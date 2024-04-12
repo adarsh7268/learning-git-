@@ -227,3 +227,4 @@ day 145 done 2 questions on gfg and leetcode.
 day 146 done 2 question on gfg and leetcode.
 day 147 done 2 question on gfg and leetcode.
 day 149 done 2 questions on gfg and leetcode.
+day 150 done 2 question on gfg and leetcode.
