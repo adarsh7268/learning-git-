@@ -249,3 +249,4 @@ day 168 done 2 uestions on gfg and leetcode.
 Day 169 done 2 question on gfg and leetcode.
 day 170 done 2 question on gfg and leetcode.
 day 171 done 2 questions on gfg and leetcode.
+day 172 done 2 questions on gfg  and leetcode.
