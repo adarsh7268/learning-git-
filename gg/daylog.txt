@@ -257,4 +257,6 @@ Day 176 done 2 questions on gfg and leetcide.
 day 177 done 2 questions on gfg and leetcode.
 Day 178 done 2 questions on gfg and leetcode.
 Day 179 done 2 questions on gfg and leetcode.s
-Day 180 done 2 qestions on gfg and leetcode.
+Day 180 done 2 qestions on gfg and leetcode.a
+
+Day 181 done 2 questions on gfg and leetcode.
