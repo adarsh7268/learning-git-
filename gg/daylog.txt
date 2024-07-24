@@ -330,3 +330,4 @@ Day 245 done 2 questions on gfg and leetcode.
 Day 246 done 2 questions on gfg and leetcode.
 Day 247 done 2 questions on gfg and leetcode.
 Day 248 done 2 questions on gfg and leetcode.
+Day 249 done 2 questions on gfg and leetcode.
