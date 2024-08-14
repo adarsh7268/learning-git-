@@ -346,4 +346,6 @@ Day 262 done 2 questions on gfg and leetcode.
 Day 263 done 2 questions on gfg and leetcode.Day 263 done 2 questions on gfg and leetcode.
 Day 264 done 2 questions on gfg and leetcode.
 Day 265 done 2 questions on gfg and leetcode.
+
 Day 266 done 2 questions on gfg and leetcode.
+Day 267 done 2 questions on gfg and leetcode.
