@@ -365,3 +365,4 @@ Day 278 done 2 questions on gfg and leetcode.
 Day 280 done 2 questions on gfg and leetcode.
 Day 281 done 2 questions on gfg and leetcode.
 Day 282 done 2 questions on gfg and leetcode.
+Day 283 done 2 questions on gfg and leetcode.
